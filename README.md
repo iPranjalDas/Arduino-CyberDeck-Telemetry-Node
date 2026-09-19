@@ -11,6 +11,12 @@
 
 ## 🖥️ System Architecture & Visual Wiring Layout
 
+### 🔌 Graphical Schematic & Pinout Diagrams
+
+![CyberDeck_Node_Schematic](Schematics/CyberDeck_Node_Schematic.png)
+
+
+
 ```
 ┌── CYBERDECK MODULAR HARDWARE ARCHITECTURE ──────────────────────────────┐
 │                                                                         │
